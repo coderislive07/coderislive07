@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [My Github profile - coderislive07](My Github profile - coderislive07)
+- 👨‍💻 All of my projects are available at [My Github profile - coderislive07]
 
 - 📫 How to reach me **coderbhai07@gmail.com**
 
